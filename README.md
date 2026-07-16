@@ -1,6 +1,6 @@
 # 🎬 YouTube Clone
 
-A responsive YouTube homepage clone built using **HTML5** and **CSS3**.
+A responsive YouTube homepage clone built using HTML5 and CSS3.
 
 ## ✨ Features
 
